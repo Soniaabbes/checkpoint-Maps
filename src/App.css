@@ -1,0 +1,6 @@
+h1{font-size: 80px;font-weight: bold; color:brown; }
+.App{display: flex;}
+.droite{display: flex; flex-direction: column; }
+.presentation{font-size: 30px; font-weight: bolder;  width: 500px;}
+img{height: 300px; width: 600px;}
+.addresse{ margin-left:350px; font-size: larger; font-weight: bolder; margin-top: 180px;}
